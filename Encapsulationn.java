@@ -12,10 +12,6 @@ class Student1
         System.out.println(name + " " + age);
     }
 
-    public void show()
-    {
-        System.out.println(name + " " + age);
-    }
 }
 public class Encapsulationn {
     public static void main(String[] args) 
